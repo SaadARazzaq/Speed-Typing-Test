@@ -2,6 +2,8 @@
 
 This project is a **Typing Speed Test** application built using **Streamlit**. The application allows users to test their typing speed, accuracy, and correctness while providing visual feedback and performance metrics.
 
+![Leonardo_Phoenix_10_A_sleek_and_modern_desktop_screen_displayi_3](https://github.com/user-attachments/assets/a8113c8e-84f8-4bf1-9f98-3c837c22c304)
+
 ## Features
 
 1. **Typing Test**:
@@ -37,6 +39,12 @@ This project is a **Typing Speed Test** application built using **Streamlit**. T
 - **Python**: Core programming language for logic and data processing.
 - **Altair**: For creating interactive charts.
 - **Docker**: For containerizing the application.
+
+## Demo Outputs
+
+<img alt="Screenshot 2024-12-26 at 02 02 51" src="https://github.com/user-attachments/assets/a8d1b3ff-360e-4008-afa1-71d4ee531059" />
+
+<img alt="Screenshot 2024-12-26 at 02 03 18" src="https://github.com/user-attachments/assets/82d5aa71-33bb-46e0-869d-8653e6c29f0f" />
 
 ---
 
